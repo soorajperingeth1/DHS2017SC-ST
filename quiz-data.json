@@ -1,1202 +1,962 @@
 [
   {
-    "id": "kpsc_q1",
-    "question": "Sterilization by dry heat is effected usually by heating at :",
-    "options": [
-      "100°C for 1 hour",
-      "121°C for 20 minutes",
-      "160°C for 2 hour",
-      "200°C for 20 minutes"
-    ],
-    "correct_answer": "160°C for 2 hour",
-    "explanation": "Dry heat sterilization in a hot air oven typically requires a temperature of 160°C for a holding time of 2 hours to effectively destroy bacterial spores."
-  },
-  {
-    "id": "kpsc_q2",
-    "question": "Microorganisms that are very resistant to heat treatments are said to be :",
-    "options": [
-      "thermophilic",
-      "mesophilic",
-      "psychrotropic",
-      "thermoduric"
-    ],
-    "correct_answer": "thermoduric",
-    "explanation": "Thermoduric microorganisms are organisms that can survive high-temperature heat treatments, such as pasteurization, even though they do not grow optimally at those temperatures."
-  },
-  {
-    "id": "kpsc_q3",
-    "question": "Which among the following is not an example of bacteria proof filter?",
-    "options": [
-      "Filter candle",
-      "Meta filter",
-      "Millipore filter",
-      "Sintered metal filter"
-    ],
-    "correct_answer": "Meta filter",
-    "explanation": "Meta filters are primarily used for clarification rather than absolute bacterial filtration, whereas filter candles, millipore filters, and sintered filters can achieve bacterial retention."
-  },
-  {
-    "id": "kpsc_q4",
-    "question": "Method of incorporation of disintegrants in tablets is :",
-    "options": [
-      "before granulation",
-      "after granulation",
-      "in parts before and after granulation",
-      "with coating solution"
-    ],
-    "correct_answer": "in parts before and after granulation",
-    "explanation": "Incorporating disintegrants both intragranularly (before granulation) and extragranularly (after granulation) ensures comprehensive disintegration of the tablet matrix into granules, and then granules into fine particles."
-  },
-  {
-    "id": "kpsc_q5",
-    "question": "Melting point of materials influence which tablet defect?",
-    "options": [
-      "picking",
-      "lamination",
-      "chipping",
-      "capping"
-    ],
-    "correct_answer": "picking",
-    "explanation": "Materials with low melting points can become soft or sticky due to frictional heat generated during compression, leading to adherence to the punch faces—a defect known as picking."
-  },
-  {
-    "id": "kpsc_q6",
-    "question": "Capacity of the cylindrical vessel present in tablet dissolution test apparatus is usually :",
-    "options": [
-      "1 litre",
-      "100 ml",
-      "500 ml",
-      "750 ml"
-    ],
-    "correct_answer": "1 litre",
-    "explanation": "Standard compendial dissolution testing apparatuses (such as USP Paddle or Basket) feature a cylindrical vessel with a nominal capacity of 1000 mL (1 litre)."
-  },
-  {
-    "id": "kpsc_q7",
-    "question": "Coacervation phase separation is a method used for which process?",
-    "options": [
-      "Tablet coating",
-      "Microencapsulation",
-      "Sterilization",
-      "All of the above"
-    ],
-    "correct_answer": "Microencapsulation",
-    "explanation": "Coacervation-phase separation is a classical core-shell deposition technique extensively utilized to produce microcapsules."
-  },
-  {
-    "id": "kpsc_q8",
-    "question": "Which source of sterilization is produced by passing of a high voltage through mercury vapor in evacuated glass tube?",
-    "options": [
-      "X rays",
-      "Beta rays",
-      "Gamma rays",
-      "UV rays"
-    ],
-    "correct_answer": "UV rays",
-    "explanation": "Mercury vapor lamps generate Ultraviolet (UV) radiation when an electrical discharge passes through localized low-pressure mercury vapor."
-  },
-  {
-    "id": "kpsc_q9",
-    "question": "Preservatives used in the formulation of capsule shell of hard gelatin capsule :",
-    "options": [
-      "glycerin",
-      "sorbitol",
-      "paraben",
-      "vanillin"
-    ],
-    "correct_answer": "paraben",
-    "explanation": "Parabens (like methyl and propyl paraben) are added to gelatin formulations as preservatives to prevent microbial growth during manufacturing and storage."
-  },
-  {
-    "id": "kpsc_q10",
-    "question": "The moisture content of hard gelatin capsule shell is usually :",
-    "options": [
-      "10 to 15%",
-      "less than 1%",
-      "zero",
-      "none of the above"
-    ],
-    "correct_answer": "10 to 15%",
-    "explanation": "Hard gelatin capsule shells inherently contain about 13-16% (commonly generalized as 10-15%) moisture to maintain structural flexibility and prevent brittleness."
-  },
-  {
-    "id": "kpsc_q11",
-    "question": "In the formulation of a suspension electrolytes are used commonly as :",
-    "options": [
-      "flocculating agent",
-      "suspending agent",
-      "wetting agent",
-      "preservative"
-    ],
-    "correct_answer": "flocculating agent",
-    "explanation": "Electrolytes reduce the electrical zeta potential of suspended particles, allowing them to aggregate into loose, easily dispersible structures called flocs."
-  },
-  {
-    "id": "kpsc_q12",
-    "question": "Which of the following solids does not require a suspending agent when formulated into a suspension?",
-    "options": [
-      "aspirin",
-      "chalk",
-      "light kaolin",
-      "resins"
-    ],
-    "correct_answer": "light kaolin",
-    "explanation": "Light kaolin is an easily wettable, diffusible solid that disperses readily in water and remains suspended long enough for an accurate dose to be poured without a structural suspending agent."
-  },
-  {
-    "id": "kpsc_q13",
-    "question": "Surfactants with HLB value between 3 and 6 favor the formation of which type of emulsion?",
-    "options": [
-      "o/w",
-      "w/o",
-      "both o/w and w/o",
-      "none of the above"
-    ],
-    "correct_answer": "w/o",
-    "explanation": "Surfactants with a low Hydrophilic-Lipophilic Balance (HLB) value of 3 to 6 are predominantly hydrophobic and are utilized as emulsifiers for water-in-oil (w/o) emulsions."
-  },
-  {
-    "id": "kpsc_q14",
-    "question": "Optimum phase volume ratio for obtaining a stable emulsion is :",
-    "options": [
-      "below 25%",
-      "above 75%",
-      "between 90 – 100%",
-      "between 30 – 60%"
-    ],
-    "correct_answer": "between 30 – 60%",
-    "explanation": "Stable emulsions generally feature a dispersed internal phase volume ratio between 30% and 60%. If the phase volume exceeds 74%, phase inversion or coalescence typically occurs."
-  },
-  {
-    "id": "kpsc_q15",
-    "question": "Sodium alkyl sulfosuccinate is used for which purpose in a dentifrice?",
-    "options": [
-      "therapeutic agent",
-      "detergent",
-      "binder",
-      "abrasive"
-    ],
-    "correct_answer": "detergent",
-    "explanation": "Sodium alkyl sulfosuccinate functions as a surface-active agent or foaming detergent to assist in debris removal within dentifrice formulations."
-  },
-  {
-    "id": "kpsc_q16",
-    "question": "Which among the following is a permanent hair removal method for body hair?",
-    "options": [
-      "electrolysis",
-      "chemical peeling",
-      "depilation",
-      "epilation"
-    ],
-    "correct_answer": "electrolysis",
-    "explanation": "Electrolysis utilizes electrical current to destroy the hair growth center at the root, rendering it the primary recognized permanent method for hair removal."
-  },
-  {
-    "id": "kpsc_q17",
-    "question": "Coulter counter is used for which evaluation test for parenteral preparation?",
-    "options": [
-      "BET test",
-      "Sterility test",
-      "Leakage test",
-      "Clarity test"
-    ],
-    "correct_answer": "Clarity test",
-    "explanation": "A Coulter counter automatically counts and determines the size distribution of particulate matter, making it an essential instrument for the quantitative clarity testing of injections."
-  },
-  {
-    "id": "kpsc_q18",
-    "question": "Which is not preferred as a vehicle among the following for the formulation of parenterals?",
-    "options": [
-      "liquid paraffin",
-      "alcohol",
-      "cottonseed oil",
-      "glycerin"
-    ],
-    "correct_answer": "liquid paraffin",
-    "explanation": "Liquid paraffin cannot be metabolized by the body and can cause tissue foreign-body reactions (paraffinomas), making it strictly avoided as an injectable vehicle."
-  },
-  {
-    "id": "kpsc_q19",
-    "question": "A popular vehicle which is isotonic with lachrymal fluid?",
-    "options": [
-      "water",
-      "0.09% saline",
-      "1.9% boric acid",
-      "0.9% barium chloride"
-    ],
-    "correct_answer": "1.9% boric acid",
-    "explanation": "A 1.9% w/v aqueous solution of boric acid is practically isotonic with lachrymal secretions and is frequently utilized as an ophthalmic vehicle."
-  },
-  {
-    "id": "kpsc_q20",
-    "question": "Which is an ingredient avoided in the formulation of ophthalmic ointment?",
-    "options": [
-      "wool fat",
-      "white soft paraffin",
-      "liquid paraffin",
-      "all of the above"
-    ],
-    "correct_answer": "wool fat",
-    "explanation": "Yellow ointment bases like wool fat can contain allergens or irritants and are typically restricted or avoided in highly sensitive ocular environments unless completely purified."
-  },
-  {
     "id": "kpsc_q21",
-    "question": "Which of the following statement regarding sodium hydroxide is correct?",
+    "question": "Freeze drying is based on the principle of",
     "options": [
-      "A powerful caustic",
-      "Highly deliquescent",
-      "Absorbs carbon dioxide from air",
-      "All of the above"
+      "Sublimation",
+      "Desiccation",
+      "Fluidisation",
+      "Reconstitution"
     ],
-    "correct_answer": "All of the above",
-    "explanation": "Sodium hydroxide ($\text{NaOH}$) is strongly corrosive (caustic), actively absorbs ambient moisture until it dissolves (deliquescent), and captures atmospheric $\text{CO}_2$ to form sodium carbonate."
+    "correct_answer": "Sublimation",
+    "explanation": "Freeze drying (lyophilization) is a process where water is removed from a product after it is frozen and placed under a vacuum, allowing the ice to change directly from solid to vapor without passing through a liquid phase (sublimation)."
   },
   {
     "id": "kpsc_q22",
-    "question": "Borate buffers are contraindicated for :",
+    "question": "Molecules whose mirror images are non superimpossable are called",
     "options": [
-      "Ophthalmic solutions",
-      "Parenteral solutions",
-      "Nasal solutions",
-      "External preparations"
+      "Stereoisomers",
+      "Geometric isomers",
+      "Conformation",
+      "Enantiomers"
     ],
-    "correct_answer": "Parenteral solutions",
-    "explanation": "Borate ions display systemic toxicity and interact negatively with blood components, strictly contraindicating their use in injections."
+    "correct_answer": "Enantiomers",
+    "explanation": "Enantiomers are a type of stereoisomer where two molecules are non-superimposable mirror images of one another, much like left and right hands."
   },
   {
     "id": "kpsc_q23",
-    "question": "The official solution of Hydrogen Peroxide in the I.P. is :",
+    "question": "Quantities of electrolytes administered to patients are expressed by",
     "options": [
-      "solution containing 6% w/v of Hydrogen peroxide",
-      "solution containing 3% w/v of Hydrogen peroxide",
-      "solution containing 27% w/v of Hydrogen peroxide",
-      "solution containing 30% w/v of Hydrogen peroxide"
+      "Milliequivalent",
+      "Equivalent",
+      "Milligram",
+      "Millilitre"
     ],
-    "correct_answer": "solution containing 6% w/v of Hydrogen peroxide",
-    "explanation": "Hydrogen Peroxide Topical Solution IP is officially standard as a 20-volume solution, which correlates directly to approximately 6% w/v of $\text{H}_2\text{O}_2$."
+    "correct_answer": "Milliequivalent",
+    "explanation": "In clinical practice, electrolyte concentrations and doses are typically expressed in milliequivalents (mEq) because chemical activity is determined by the number of ionic charges rather than the absolute weight of the electrolyte."
   },
   {
     "id": "kpsc_q24",
-    "question": "Aqueous salt of Sodium Nitrite is :",
+    "question": "Example for anionic surfactant",
     "options": [
-      "Alkaline to litmus",
-      "Acidic to litmus",
-      "Neutral to litmus",
-      "Both acidic and alkaline to litmus"
+      "Glycine",
+      "Sodium dodecyl sulphate",
+      "Trialkyl ammonium",
+      "Polyethylene glycol"
     ],
-    "correct_answer": "Alkaline to litmus",
-    "explanation": "Sodium Nitrite ($\text{NaNO}_2$) is a salt derived from a strong base ($\text{NaOH}$) and a weak acid ($\text{HNO}_2$), meaning its aqueous solutions undergo conjugate base hydrolysis to yield a basic (alkaline) pH."
+    "correct_answer": "Sodium dodecyl sulphate",
+    "explanation": "Sodium dodecyl sulphate (also known as sodium lauryl sulfate or SLS) is a widely used anionic surfactant that has a negatively charged hydrophilic head group."
   },
   {
     "id": "kpsc_q25",
-    "question": "Povidone – Iodine belongs to :",
+    "question": "Which among the following is a prodrug ?",
     "options": [
-      "Aqueous Iodine solution",
-      "Strong Iodine solution",
-      "Iodine tincture",
-      "Iodophor compound"
+      "Morphine",
+      "Ampicillin",
+      "Acyclovir",
+      "Ibuprofen"
     ],
-    "correct_answer": "Iodophor compound",
-    "explanation": "Iodophors are complexes consisting of iodine bound to a solubilizing carrier polymer like polyvinylpyrrolidone (povidone), which releases iodine slowly."
+    "correct_answer": "Acyclovir",
+    "explanation": "Acyclovir acts as a prodrug because it must be phosphorylated (converted to acyclovir triphosphate) by viral and cellular kinases inside the host cell to become active against herpes viruses."
   },
   {
     "id": "kpsc_q26",
-    "question": "The chemical formula for Ammoniated Mercury is :",
+    "question": "What is the percentage strength of 1:5000 solution ?",
     "options": [
-      "NH2 HgCl",
-      "NH4 HgCl",
-      "NH3 HgCl",
-      "NH2 HgNH2"
+      "0.2%",
+      "2%",
+      "0.002%",
+      "0.02%"
     ],
-    "correct_answer": "NH2 HgCl",
-    "explanation": "Ammoniated mercury, historically referred to as white precipitate, possesses the chemical formula $\text{NH}_2\text{HgCl}$."
+    "correct_answer": "0.02%",
+    "explanation": "A 1:5000 ratio means 1 gram of solute in 5000 mL of solution. To express this as a percentage: (1 / 5000) * 100 = 0.02%."
   },
   {
     "id": "kpsc_q27",
-    "question": "Ammonium Chloride may be used as :",
+    "question": "Articles published in journals are called",
     "options": [
-      "Expectorant",
-      "Systemic acidifier",
-      "Diuretic",
-      "All of the above"
+      "Secondary sources",
+      "Tertiary sources",
+      "Primary sources",
+      "Reference works"
     ],
-    "correct_answer": "All of the above",
-    "explanation": "Ammonium chloride ($\text{NH}_4\text{Cl}$) functions physiologically as a systemic acidifier, an osmotic diuretic, and an irritant expectorant in cough syrups."
+    "correct_answer": "Primary sources",
+    "explanation": "Original research articles published in scientific journals are considered primary sources of literature because they represent the first-hand reporting of research findings."
   },
   {
     "id": "kpsc_q28",
-    "question": "Which of the following statement about Antimony Potassium Tartrate is true?",
+    "question": "The colouring matter in capsicum",
     "options": [
-      "Its taste is sweet",
-      "Its crystals effloresce when exposed to dry air",
-      "It is an emetic",
-      "All of the above"
+      "Capsaicin",
+      "Capsicin",
+      "Capsanthin",
+      "Capsacutin"
     ],
-    "correct_answer": "All of the above",
-    "explanation": "Antimony potassium tartrate (Tartar emetic) exhibits a sweetish metallic taste, loses crystalline water in dry air (effloresces), and acts as a central/peripheral emetic."
+    "correct_answer": "Capsanthin",
+    "explanation": "Capsanthin is a natural red carotenoid pigment responsible for the bright red color of ripe capsicum fruits, while capsaicin is the chemical compound responsible for its spiciness/pungency."
   },
   {
     "id": "kpsc_q29",
-    "question": "Calcium Gluconate can be administered by :",
+    "question": "Mechanism by which microorganism are killed in autoclaving",
     "options": [
-      "Orally",
-      "Intramuscular Injection",
-      "Intravenous Injection",
-      "All of the above"
+      "Alkylation of the essential cellular metabolites",
+      "Coagulation of the cellular proteins of the microorganism",
+      "Oxidation",
+      "Precipitation"
     ],
-    "correct_answer": "All of the above",
-    "explanation": "Calcium gluconate is clinically versatile and can be taken as oral supplements or injected via intravenous and deep intramuscular pathways."
+    "correct_answer": "Coagulation of the cellular proteins of the microorganism",
+    "explanation": "Autoclaving uses moist heat under pressure, which destroys microorganisms primarily by causing the coagulation and denaturation of their structural and enzymatic proteins."
   },
   {
     "id": "kpsc_q30",
-    "question": "All of the following are also known as “Chlorinated Lime” except :",
+    "question": "An anti retrovirus drug Zidovudine acts by which mechanism ?",
     "options": [
-      "Slaked Lime",
-      "Chloride of Lime",
-      "Bleaching Powder",
-      "Calcium Chloro-Hypochlorite"
+      "Protease inhibitors",
+      "Non nucleoside reverse transcriptase inhibitors",
+      "DNA polymerase inhibitors",
+      "Nucleoside reverse transcriptase inhibitors"
     ],
-    "correct_answer": "Slaked Lime",
-    "explanation": "Slaked lime is calcium hydroxide [$\text{Ca(OH)}_2$], which contains no chlorine, unlike bleaching powder options."
+    "correct_answer": "Nucleoside reverse transcriptase inhibitors",
+    "explanation": "Zidovudine (AZT) is a thymidine analogue that acts as a Nucleoside Reverse Transcriptase Inhibitor (NRTI) by incorporating into viral DNA and causing chain termination."
   },
   {
     "id": "kpsc_q31",
-    "question": "Chemical name of Dapsone is :",
+    "question": "Which among the following is the chemical test used to identify C glycosides ?",
     "options": [
-      "4,4' – Dimethyl diphenyl sulfone",
-      "4,4' – Diethyl diphenyl sulfone",
-      "4,4' – Diamino diphenyl sulfone",
-      "4,4' – Diamino diphenyl sulfonamide"
+      "Modified Borntrager's test",
+      "Kellekilliani test",
+      "Borntrager's test",
+      "Murexide test"
     ],
-    "correct_answer": "4,4' – Diamino diphenyl sulfone",
-    "explanation": "Dapsone is a principal anti-leprotic sulfone structurally recognized as 4,4'-diaminodiphenylsulfone (DDS)."
+    "correct_answer": "Modified Borntrager's test",
+    "explanation": "While the standard Borntrager's test is used to identify O-glycosides (anthraquinones), the Modified Borntrager's test utilizes ferric chloride to break the carbon-carbon bond of C-glycosides, allowing identification."
   },
   {
     "id": "kpsc_q32",
-    "question": "All of the following are Antifungal Antibiotics except :",
+    "question": "Eugenol is present in",
     "options": [
-      "Griseofulvin",
-      "Tolnaftate",
-      "Nystatin",
-      "Amphotericin"
+      "Ginger",
+      "Cardamom",
+      "Tulsi",
+      "Fennel"
     ],
-    "correct_answer": "Tolnaftate",
-    "explanation": "Tolnaftate is a synthetic thiocarbamate antifungal compound, whereas griseofulvin, nystatin, and amphotericin are natural antibiotics produced by microorganisms."
+    "correct_answer": "Tulsi",
+    "explanation": "Tulsi (holy basil or Ocimum sanctum) contains volatile oils rich in eugenol, which is responsible for its characteristic aroma and therapeutic properties."
   },
   {
     "id": "kpsc_q33",
-    "question": "Which of the following statement about proguanil is true?",
+    "question": "1 grain is",
     "options": [
-      "It is a dihydrofolate reductase inhibitor",
-      "Its active form is cycloguanil",
-      "Used for both Prophylaxis and treatment of malaria",
-      "All of the above"
+      "15 mg",
+      "60 mg",
+      "15 g",
+      "450 mg"
     ],
-    "correct_answer": "All of the above",
-    "explanation": "Proguanil is a biguanide prodrug that is metabolized in vivo into cycloguanil, an active inhibitor of plasmodial dihydrofolate reductase used to treat and prevent malaria."
+    "correct_answer": "60 mg",
+    "explanation": "In the apothecaries' system, 1 grain (gr) is approximately equivalent to 64.8 mg, which is frequently rounded to 60 mg or 65 mg in pharmaceutical calculations."
   },
   {
     "id": "kpsc_q34",
-    "question": "Carbenicillin is an example of :",
+    "question": "An example for drying oil",
     "options": [
-      "Natural Penicillin",
-      "Penicillinase resistant Penicillin",
-      "Anti-pseudomonal Penicillin",
-      "Acid stable Penicillin"
+      "Olive oil",
+      "Sesame oil",
+      "Arachis oil",
+      "Linseed oil"
     ],
-    "correct_answer": "Anti-pseudomonal Penicillin",
-    "explanation": "Carbenicillin belongs to the carboxypenicillin sub-class, demonstrating specialized extended-spectrum activity against Gram-negative bacteria like Pseudomonas aeruginosa."
+    "correct_answer": "Linseed oil",
+    "explanation": "Linseed oil is a classic example of a drying oil because it is rich in highly unsaturated fatty acids (like alpha-linolenic acid) that oxidize and polymerize to form a tough elastic film when exposed to air."
   },
   {
     "id": "kpsc_q35",
-    "question": "5-Fluorouracil is used in the treatment of :",
+    "question": "Formula used for calculating retail price",
     "options": [
-      "Breast cancer",
-      "Colorectal cancer",
-      "Basal cell cancer of the skin",
-      "All of the above"
+      "RP = (MC + CC + PM + PC) x (1 + MAPE/100) - ED",
+      "RP = (MC + CC + PM + PC) x (1 + MAPE/100) + ED",
+      "RP = (MC + CC + PM + ED) + (1 + MAPE/100) - PM",
+      "RP = (MC + CC + PM + PC) - (1 + MAPE100) + ED"
     ],
-    "correct_answer": "All of the above",
-    "explanation": "5-Fluorouracil (5-FU) is a pyrimidine antagonist pyrimidine analog chemotherapy agent applied systemically for solid tumors (colorectal, breast) and topically for skin carcinomas."
+    "correct_answer": "RP = (MC + CC + PM + PC) x (1 + MAPE/100) + ED",
+    "explanation": "According to the Drug Prices Control Order (DPCO), the Retail Price (RP) is calculated using the formula where MC is Material Cost, CC is Conversion Cost, PM is Packaging Material Cost, PC is Packaging Charges, MAPE is Maximum Allowable Post-manufacturing Expenses, and ED is Excise Duty."
   },
   {
     "id": "kpsc_q36",
-    "question": "Azathioprine is a heterocyclic derivative of :",
+    "question": "Most abundant antibodies found in serum",
     "options": [
-      "5-Fluorouracil",
-      "6-Mercaptopurine",
-      "Methotrexate",
-      "None of the above"
+      "Ig M",
+      "Ig A",
+      "Ig D",
+      "Ig G"
     ],
-    "correct_answer": "6-Mercaptopurine",
-    "explanation": "Azathioprine acts as an immunosuppressive prodrug that cleaves non-enzymatically to yield its active purine antagonist metabolite, 6-mercaptopurine."
+    "correct_answer": "Ig G",
+    "explanation": "Immunoglobulin G (IgG) is the most abundant antibody class in human serum, making up roughly 75% to 80% of the total circulating immunoglobulins."
   },
   {
     "id": "kpsc_q37",
-    "question": "Mannitol is mainly used by intravenous infusion as :",
+    "question": "Antibody containing preparations are commonly known as",
     "options": [
-      "Carbonic anhydrase inhibitor",
-      "Potassium-sparing diuretic",
-      "Osmotic diuretic",
-      "Thiazide diuretic"
+      "Antitoxins",
+      "Vaccines",
+      "Toxoids",
+      "Polyvalent vaccines"
     ],
-    "correct_answer": "Osmotic diuretic",
-    "explanation": "Mannitol is a non-metabolizable sugar molecule that filters freely through the glomerulus, exerting an osmotic force that inhibits water reabsorption in the renal tubules."
+    "correct_answer": "Antitoxins",
+    "explanation": "Antitoxins are antibody preparations (passive immunizing agents) harvested from animal or human sources that directly neutralize specific toxins, whereas vaccines and toxoids stimulate active host antibody production."
   },
   {
     "id": "kpsc_q38",
-    "question": "Which one of the following can be administered orally?",
+    "question": "Calamine I.P. is",
     "options": [
-      "Adrenaline",
-      "Noradrenaline",
-      "Isoprenaline",
-      "Salbutamol"
+      "Zinc oxide with ferric oxide",
+      "Basic zinc carbonate",
+      "Zinc carbonate with ferric oxide",
+      "Calcium oxide with ferric oxide"
     ],
-    "correct_answer": "Salbutamol",
-    "explanation": "Catecholamines like adrenaline are degraded rapidly by intestinal enzymes and COMT, whereas salbutamol is a non-catecholamine $\beta_2$-agonist that possesses high oral bioavailability."
+    "correct_answer": "Zinc oxide with ferric oxide",
+    "explanation": "Calamine according to the Indian Pharmacopoeia is primarily zinc oxide (ZnO) mixed with a small percentage of ferric oxide (Fe2O3), which gives it its characteristic pink color."
   },
   {
     "id": "kpsc_q39",
-    "question": "Which of the following is a monoamine oxidase inhibiting antidepressant?",
+    "question": "Latin term S.O.S. means",
     "options": [
-      "Imipramine",
-      "Phenelzine",
-      "Amitriptyline",
-      "Nortriptyline"
+      "Take alternate days",
+      "Take immediately",
+      "Take as directed",
+      "Take when necessary"
     ],
-    "correct_answer": "Phenelzine",
-    "explanation": "Phenelzine is a classic, non-selective hydrazine Monoamine Oxidase Inhibitor (MAOI), while the alternative selections are tricyclic antidepressants (TCAs)."
+    "correct_answer": "Take when necessary",
+    "explanation": "The Latin phrase 'si opus sit' is abbreviated as S.O.S., which translates directly to 'if there is need' or 'take when necessary'."
   },
   {
     "id": "kpsc_q40",
-    "question": "Which of the following is NOT a benzodiazepine derivative?",
+    "question": "As per I.P 'store in a cool place' means",
     "options": [
-      "Chlordiazepoxide",
-      "Diazepam",
-      "Lorazepam",
-      "Meprobamate"
+      "Store at room temperature",
+      "Store in a refrigerator",
+      "Store between 8° to 25°C",
+      "Store between 2° to 8°C"
     ],
-    "correct_answer": "Meprobamate",
-    "explanation": "Meprobamate is a carbamate derivative functioning as an anxiolytic, entirely structurally unique from the class of benzodiazepines."
+    "correct_answer": "Store between 8° to 25°C",
+    "explanation": "According to the Indian Pharmacopoeia, a 'cool place' temperature is defined as any temperature between 8°C and 25°C, while a 'cold place' is between 2°C and 8°C."
   },
   {
     "id": "kpsc_q41",
-    "question": "Which among the following is an isoquinoline alkaloid?",
+    "question": "Drugs coloured, coated, powdered or polished so as to conceal damage is",
     "options": [
-      "Quinine",
-      "Emetine",
-      "Ergometrine",
-      "Strignine"
+      "Spurious drugs",
+      "Misbranded drugs",
+      "Adulterated drugs",
+      "New drugs"
     ],
-    "correct_answer": "Emetine",
-    "explanation": "Emetine, derived from Ipecacuanha, features an isoquinoline core skeleton in its chemical structure."
+    "correct_answer": "Misbranded drugs",
+    "explanation": "Under the Drugs and Cosmetics Act, a drug is deemed to be misbranded if it is colored, coated, powdered or polished to conceal damage, or made to appear of better therapeutic value than it really is."
   },
   {
     "id": "kpsc_q42",
-    "question": "The toxic substance present in Nutmeg is :",
+    "question": "The test used for the detection of Typhoid fever",
     "options": [
-      "Safrole",
-      "Euginol",
-      "Myristicine",
-      "Pinine"
+      "Dick test",
+      "Widal test",
+      "Mantoux test",
+      "Schick test"
     ],
-    "correct_answer": "Myristicine",
-    "explanation": "Myristicin is a natural allylbenzene derivative found in nutmeg that possesses potent psychoactive and neurotoxic profiles when ingested in large quantities."
+    "correct_answer": "Widal test",
+    "explanation": "The Widal test is a serological test used to detect agglutinating antibodies against Salmonella enterica serovar Typhi in the blood of patients with typhoid fever."
   },
   {
     "id": "kpsc_q43",
-    "question": "Which among the following is a C-glycoside?",
+    "question": "Which of the following alkaloids is water soluble ?",
     "options": [
-      "Sennoside C",
-      "Aloe-emodin",
-      "Rhein",
-      "Aloin"
+      "Ergosine",
+      "Ergocryptine",
+      "Ergotamine",
+      "Ergometrine"
     ],
-    "correct_answer": "Aloin",
-    "explanation": "Aloin, isolated from Aloe species, represents a classic C-glycoside where the anomeric carbon is linked directly to a carbon atom of the anthrone ring."
+    "correct_answer": "Ergometrine",
+    "explanation": "Ergometrine (also known as ergonovine) is a water-soluble ergot alkaloid, in contrast to peptide ergot alkaloids like ergotamine and ergocryptine which are water-insoluble."
   },
   {
     "id": "kpsc_q44",
-    "question": "The oil which is used for the production of Vanillin?",
+    "question": "Volatile oil can be distinguished from fixed oil as they",
     "options": [
-      "Clove oil",
-      "Lemon oil",
-      "Cinnamon oil",
-      "Peppermint oil"
+      "Capable of volatilisation",
+      "Do not contain glyceryl esters",
+      "Do not leave any spot on the paper",
+      "All of the above"
     ],
-    "correct_answer": "Clove oil",
-    "explanation": "Clove oil is enriched with eugenol, which serves as a major chemical precursor for the semi-synthetic manufacture of vanillin."
+    "correct_answer": "All of the above",
+    "explanation": "Volatile oils evaporate on exposure to air (volatilisation), do not consist of glyceryl esters of fatty acids like fixed oils do, and do not leave a translucent, greasy spot on paper when evaporated."
   },
   {
     "id": "kpsc_q45",
-    "question": "Stomata present in Digitalis purpurea :",
+    "question": "Products of opium manipulated to make it suitable for smoking and the residue left after opium has been smoked means",
     "options": [
-      "Rubiaceous",
-      "Ranumculaceous",
-      "Caryophyllaceous",
-      "Cruciferous"
+      "Poppy straw",
+      "Poppy straw concentrate",
+      "Prepared opium",
+      "Opium residue"
     ],
-    "correct_answer": "Ranumculaceous",
-    "explanation": "Digitalis purpurea leaves contain anomocytic stomata, which are botanically designated as Ranunculaceous stomata."
+    "correct_answer": "Prepared opium",
+    "explanation": "Under narcotic laws, 'prepared opium' specifically refers to any product of opium obtained by series of operations designed to transform it into an extract suitable for smoking, including the dross or residue remaining after smoking."
   },
   {
     "id": "kpsc_q46",
-    "question": "Which of the following not posses narcotic activity?",
+    "question": "Example for an artificial colour",
     "options": [
-      "Narcotine",
-      "Morphine",
-      "Diacetylmorphine",
-      "Tetrahydrocannabinol"
+      "Caramel",
+      "Chloprophyll",
+      "Cochineal",
+      "Annatto"
     ],
-    "correct_answer": "Narcotine",
-    "explanation": "Narcotine (also called noscapine) is a benzylisoquinoline alkaloid present in opium that functions as an antitussive and exhibits no significant narcotic or analgesic dependency profiles."
+    "correct_answer": "Caramel",
+    "explanation": "Caramel is processed heating-derived coloring (often classified among artificial/processed colors), whereas Chlorophyll, Cochineal, and Annatto are direct natural pigments."
   },
   {
     "id": "kpsc_q47",
-    "question": "Which among the following is known as ‘St. Antony’s Fire’?",
+    "question": "Creatinine clearance is used as measurement of",
     "options": [
-      "Belladonna",
-      "Digitalis",
-      "Rauwolfia",
-      "Ergot"
+      "Renal excretion rate",
+      "Glomerular filtration rate",
+      "Passive renal absorption",
+      "Active renal secretion"
     ],
-    "correct_answer": "Ergot",
-    "explanation": "Ergotism, a clinical poisoning from ingesting ergot-infected grains, causes severe peripheral vasoconstriction and burning sensations historically labeled as 'St. Anthony's Fire'."
+    "correct_answer": "Glomerular filtration rate",
+    "explanation": "Creatinine is freely filtered by the glomeruli and undergoes minimal tubular secretion, making creatinine clearance a standard clinical marker to estimate Glomerular Filtration Rate (GFR)."
   },
   {
     "id": "kpsc_q48",
-    "question": "The bitter glycoside present in Cinchona is :",
+    "question": "Carbohydrate reserve is plants",
     "options": [
-      "Quinidine",
-      "Quinine",
-      "Cinchonine",
-      "Quinovin"
+      "Dextaran",
+      "Cellulose",
+      "Glycogen",
+      "Inulin"
     ],
-    "correct_answer": "Quinovin",
-    "explanation": "While Cinchona contains quinoline alkaloids like quinine, its major non-nitrogenous amorphous bitter glycoside compound is Quinovin."
+    "correct_answer": "Inulin",
+    "explanation": "Inulin is a naturally occurring storage polysaccharide (carbohydrate reserve) found in many plant roots and rhizomes, such as chicory and dahlia."
   },
   {
     "id": "kpsc_q49",
-    "question": "Which among the following is used as an anti-inflammatory agent?",
+    "question": "Example of an aliphatic amino acid",
     "options": [
-      "Diastase",
-      "Pepsin",
-      "Papain",
-      "Gelatin"
+      "Cysteine",
+      "Glycine",
+      "Phenylalanine",
+      "Arginine"
     ],
-    "correct_answer": "Papain",
-    "explanation": "Papain is a proteolytic enzyme derived from papaya that helps break down inflammatory exudates and reduce tissue swelling."
+    "correct_answer": "Glycine",
+    "explanation": "Glycine is the simplest aliphatic amino acid, featuring a single hydrogen atom as its side chain."
   },
   {
     "id": "kpsc_q50",
-    "question": "Cremocarp of Coriander fruit contains :",
+    "question": "Application for grant or renewal of a licence to sell, stock or exhibit for sale or distribute drugs is given in form number",
     "options": [
-      "2 vittae",
-      "4 vittae",
-      "6 vittae",
-      "12 vittae"
+      "21",
+      "19",
+      "20",
+      "20A"
     ],
-    "correct_answer": "2 vittae",
-    "explanation": "The dorsal surface of a coriander mericarp features zero visible vittae, while its commissural face contains 2 vittae, making a total of 2 per cremocarp."
+    "correct_answer": "19",
+    "explanation": "Under the Drugs and Cosmetics Rules, Form 19 is the application form used to request the grant or renewal of a license to sell, stock, exhibit, or distribute drugs."
   },
   {
     "id": "kpsc_q51",
-    "question": "Which of the following drug is administered intravenously to induce anaesthesia?",
+    "question": "Nicotinic receptors are found in",
     "options": [
-      "Isoflurane",
-      "Nitrous oxide",
-      "Thiopentone sodium",
-      "Ether"
+      "Skeletal muscles",
+      "Smooth muscles",
+      "Heart",
+      "Exocrine glands"
     ],
-    "correct_answer": "Thiopentone sodium",
-    "explanation": "Thiopentone sodium is an ultra-short-acting barbiturate administered intravenously for the rapid and smooth induction of general anesthesia."
+    "correct_answer": "Skeletal muscles",
+    "explanation": "Nicotinic acetylcholine receptors (specifically the Nm subtype) are located at the neuromuscular junctions of skeletal muscles to mediate voluntary muscle contraction."
   },
   {
     "id": "kpsc_q52",
-    "question": "An adverse effect of Penicillin is :",
+    "question": "The items which become useless due to change n design, product or process are called",
     "options": [
-      "Bone Marrow suppression",
-      "Teratogenicity",
-      "Ototoxicity",
-      "Hypersensitivity reaction"
+      "Slow moving items",
+      "Dormant items",
+      "Obsolete items",
+      "Legitimate items"
     ],
-    "correct_answer": "Hypersensitivity reaction",
-    "explanation": "Hypersensitivity or allergic reactions ranging from skin rashes to life-threatening anaphylactic shock stand as the most common adverse profile associated with penicillins."
+    "correct_answer": "Obsolete items",
+    "explanation": "In inventory and store management, obsolete items are those materials or products that are no longer usable because of modifications in design, raw materials, or manufacturing processes."
   },
   {
     "id": "kpsc_q53",
-    "question": "Which among the following is not a loop diuretic?",
+    "question": "Formula used for calculating dose for an infant",
     "options": [
-      "Furosemide",
-      "Indapamide",
-      "Bumetanide",
-      "Torsemide"
+      "Dillings formula",
+      "Clarks formula",
+      "Cowlings formula",
+      "Frieds formula"
     ],
-    "correct_answer": "Indapamide",
-    "explanation": "Indapamide is categorized as a thiazide-like diuretic rather than a loop (high-ceiling) diuretic."
+    "correct_answer": "Frieds formula",
+    "explanation": "Fried's formula is specifically designed to calculate drug doses for infants (under 2 years old) based on age in months: Infant Dose = (Age in months / 150) * Adult Dose."
   },
   {
     "id": "kpsc_q54",
-    "question": "An adrenergic drug used as bronchodilator is :",
+    "question": "Drugs required to be purchased for a hospital is prepared by",
     "options": [
-      "Terbutaline",
-      "Methoxamine",
-      "Dobutamine",
-      "Aminophylline"
+      "PTC",
+      "Medical superintendent",
+      "Chief pharmacist",
+      "CSS"
     ],
-    "correct_answer": "Terbutaline",
-    "explanation": "Terbutaline selectively activates $\beta_2$-adrenergic receptors to relax bronchial smooth muscle. Note: Aminophylline is a bronchodilator but is a xanthine derivative, not an adrenergic drug."
+    "correct_answer": "PTC",
+    "explanation": "The Pharmacy and Therapeutics Committee (PTC) is responsible for policy development, drug formulary management, and advising on drug procurement specifications in a hospital."
   },
   {
     "id": "kpsc_q55",
-    "question": "The classification under which glibenclamide belongs :",
+    "question": "Antidote for mercury poisoning",
     "options": [
-      "Sulphonyl ureas",
-      "Biguanides",
-      "Thiazolidinediones",
-      "Phenylalanine analogues"
+      "EDTA",
+      "Naloxone",
+      "Dimercaprol",
+      "Deferoxamine"
     ],
-    "correct_answer": "Sulphonyl ureas",
-    "explanation": "Glibenclamide (glyburide) is a well-known second-generation sulfonylurea oral hypoglycemic agent used to manage Type 2 diabetes."
+    "correct_answer": "Dimercaprol",
+    "explanation": "Dimercaprol (British Anti-Lewisite or BAL) is a heavy metal chelating agent used as an antidote to treat acute poisoning from arsenic, gold, and mercury."
   },
   {
     "id": "kpsc_q56",
-    "question": "An example for intermediate acting nondepolarizing neuromuscular blocking agent is :",
+    "question": "Which one of the following is an example for reversible process ?",
     "options": [
-      "Doxacurium",
-      "Cisatracurium",
-      "Mivacurium",
-      "Succinylcholine"
+      "Cracking",
+      "Creaming",
+      "Phase inversion",
+      "Breaking"
     ],
-    "correct_answer": "Cisatracurium",
-    "explanation": "Cisatracurium is a classic intermediate-acting non-depolarizing skeletal muscle relaxant that undergoes Hofmann elimination."
+    "correct_answer": "Creaming",
+    "explanation": "Creaming in emulsions involves the upward or downward movement of dispersed droplets, which is reversible upon gentle shaking, whereas breaking and cracking represent irreversible separation."
   },
   {
     "id": "kpsc_q57",
-    "question": "Which among the following is an autocoid?",
+    "question": "Loan licences can be granted only for drugs other than those specified in",
     "options": [
-      "Ketanserin",
-      "Mephenteramine",
-      "Glucagon",
-      "Histamine"
+      "Schedule X drugs",
+      "Schedule C drugs",
+      "Schedule C & C1 drugs",
+      "Schedule Z drugs"
     ],
-    "correct_answer": "Histamine",
-    "explanation": "Autacoids are biological substances generated locally to act near their site of synthesis. Histamine represents a classic amine autacoid."
+    "correct_answer": "Schedule X drugs",
+    "explanation": "Loan licenses can be granted for manufacturing drugs belonging to Schedule C and C1, but they are strictly not granted for Schedule X drugs due to their high potential for abuse."
   },
   {
     "id": "kpsc_q58",
-    "question": "Antithrombotic dose of Aspirin is :",
+    "question": "Example for a tablet disintegrants",
     "options": [
-      "300-400 mg/day",
-      "10-25 mg/day",
-      "75-150 mg/day",
-      "400-600 mg/day"
+      "Lactose",
+      "Acacia",
+      "Primogel",
+      "Talc"
     ],
-    "correct_answer": "75-150 mg/day",
-    "explanation": "Low doses of aspirin (typically 75–150 mg/day) are used clinically to selectively inhibit platelet cyclooxygenase-1 ($\text{COX-1}$) and provide antithrombotic cardioprotection."
+    "correct_answer": "Primogel",
+    "explanation": "Primogel is a brand name for sodium starch glycolate, which is widely utilized as a superdisintegrant in tablet formulations to promote rapid water uptake and swelling."
   },
   {
     "id": "kpsc_q59",
-    "question": "Which of the following drug produce ‘‘on-off effect’’ on long term therapy?",
+    "question": "Schedule F means",
     "options": [
-      "Phenytoin",
-      "Chlorpromazine",
-      "Clozapine",
-      "Levodopa"
+      "Regulations and standards for surgical dressings",
+      "Regulations and standards for umbilical tapes",
+      "Regulations and standards for vaccines",
+      "Regulations and standards for running a blood bank"
     ],
-    "correct_answer": "Levodopa",
-    "explanation": "Long-term levodopa therapy in Parkinson's disease often results in sudden shifts between periods of good mobility ('on') and severe bradykinesia ('off')."
+    "correct_answer": "Regulations and standards for running a blood bank",
+    "explanation": "Under the Drugs and Cosmetics Rules, Schedule F provides standards and rules regarding the production, storage, testing, and distribution of blood products and blood bank operations."
   },
   {
     "id": "kpsc_q60",
-    "question": "Therapeutic dose of isoniazid for adults is :",
+    "question": "Secobarbital belongs to",
     "options": [
-      "200 mg",
-      "300 mg",
-      "100 mg",
-      "750 mg"
+      "Schedule J",
+      "Schedule A",
+      "Schedule X",
+      "Schedule G"
     ],
-    "correct_answer": "300 mg",
-    "explanation": "The standard daily therapeutic adult dose of Isoniazid (INH) in typical antitubercular treatment regimens is 300 mg."
+    "correct_answer": "Schedule X",
+    "explanation": "Secobarbital (quinalbarbitone) is a barbiturate derivative with abuse potential and is categorized under Schedule X of the Indian Drugs and Cosmetics Act."
   },
   {
     "id": "kpsc_q61",
-    "question": "Obsolescent item is :",
+    "question": "Number of milligrams of potassium hydroxide requried to neutralise the free fatty acid present in 1 gram of fat is",
     "options": [
-      "It is going out of use, but not yet completely unusable",
-      "It is no longer usable due to change in practice",
-      "It is an unusable item having only material cost",
-      "It cannot be used"
+      "Iodine number",
+      "Saponification number",
+      "Acid number",
+      "Acetyl number"
     ],
-    "correct_answer": "It is going out of use, but not yet completely unusable",
-    "explanation": "In inventory and materials management, obsolescent items refer to stock elements that are progressively phasing out of use but still hold minimal operational function."
+    "correct_answer": "Acid number",
+    "explanation": "The acid value (or acid number) is defined as the mass of potassium hydroxide (KOH) in milligrams required to neutralize the free fatty acids present in 1 gram of chemical substance."
   },
   {
     "id": "kpsc_q62",
-    "question": "What is lead time?",
+    "question": "Which vitamin is also known as coagulation factor ?",
     "options": [
-      "The average time for placing an order",
-      "The average time for accepting an order",
-      "The average time for placing an order and receiving the item",
-      "The time taken for scrutinizing the order"
+      "Vitamin K",
+      "Vitamin E",
+      "Vitamin D",
+      "Vitamin C"
     ],
-    "correct_answer": "The average time for placing an order and receiving the item",
-    "explanation": "Lead time defines the full operational duration that passes from the initial generation of a purchase requisition until the stock arrives and is ready for use."
+    "correct_answer": "Vitamin K",
+    "explanation": "Vitamin K is essential for the post-translational modification of several blood clotting factors (factors II, VII, IX, and X), earning its reputation as the coagulation vitamin."
   },
   {
     "id": "kpsc_q63",
-    "question": "Buffer stock items means :",
+    "question": "Gluconneogenesis mainly occurs in",
     "options": [
-      "The quantity of items which are expired",
-      "The quantity of items is not of standard",
-      "The quantity of items kept for unfrozen demands",
-      "The quantity of items which are not useable"
+      "Muscle",
+      "Pancreas",
+      "Kidney",
+      "Adipose tissue"
     ],
-    "correct_answer": "The quantity of items kept for unfrozen demands",
-    "explanation": "Buffer stock (safety stock) acts as a calculated inventory reserve designed to safeguard against unexpected fluctuations (unfrozen demands) or delivery delays."
+    "correct_answer": "Kidney",
+    "explanation": "While the liver is the primary site of gluconeogenesis, during prolonged fasting or metabolic stress, the kidneys play a major role in generating glucose from non-carbohydrate substrates."
   },
   {
     "id": "kpsc_q64",
-    "question": "Re-order level means :",
+    "question": "Example for amide type local anaesthetic",
     "options": [
-      "The level at which new order to be placed",
-      "The level at which cancellation of order",
-      "The level at which recall of order",
-      "The level at which there is zero order"
+      "Cocaine",
+      "Benzocaine",
+      "Lignocaine",
+      "Procaine"
     ],
-    "correct_answer": "The level at which new order to be placed",
-    "explanation": "The re-order point or level is the specific quantity threshold of inventory that automatically signals the need to issue a fresh replenishment order."
+    "correct_answer": "Lignocaine",
+    "explanation": "Lignocaine (lidocaine) is an amide-type local anesthetic. It features an amide linkage which makes it more stable and resistant to rapid hydrolysis compared to ester-type local anesthetics like cocaine, procaine, and benzocaine."
   },
   {
     "id": "kpsc_q65",
-    "question": "The carrying cost includes the following except :",
+    "question": "Main building block for fatty acid synthesis",
     "options": [
-      "The interest on the money locked up on the material stocked",
-      "The amount of Tax payable",
-      "The insurance on goods",
-      "The cost incurred by the purchase department"
+      "Acyl-CoA",
+      "Acetyl-CoA",
+      "Ketoacyl-CoA",
+      "Malonyl-CoA"
     ],
-    "correct_answer": "The cost incurred by the purchase department",
-    "explanation": "The expenses generated by the purchasing department itself represent ordering costs, whereas storage, interest, insurance, and inventory taxes fall under carrying costs."
+    "correct_answer": "Acetyl-CoA",
+    "explanation": "Acetyl-CoA is the starting block and direct precursor for fatty acid synthesis, though it is converted into Malonyl-CoA during elongation."
   },
   {
     "id": "kpsc_q66",
-    "question": "ABC analysis of inventory means :",
+    "question": "Thin plate like bone present in postero-inferior part of the nasal septum",
     "options": [
-      "Always buffered control",
-      "Always beneficial control",
-      "Always better control",
-      "Alternative better control"
+      "Zygomatic bone",
+      "Parietal bone",
+      "Ethmoid bone",
+      "Vomer"
     ],
-    "correct_answer": "Always better control",
-    "explanation": "ABC Analysis stands for 'Always Better Control', an inventory management technique that categorizes items based on their annual consumption value."
+    "correct_answer": "Vomer",
+    "explanation": "The vomer is an unpaired, thin flat bone that forms the postero-inferior portion of the bony nasal septum in the skull."
   },
   {
     "id": "kpsc_q67",
-    "question": "The major legal requirements of procurement of drugs include :",
+    "question": "Statement prepared to check the arithmetical accuracy of the Book-keeping entries are called",
     "options": [
-      "Pharmacy Act",
-      "Drugs and Magic remedies Act",
-      "Poison Act",
-      "Drugs and Cosmetic Act"
+      "Journal",
+      "Ledger",
+      "Balance sheet",
+      "Trial balance"
     ],
-    "correct_answer": "Drugs and Cosmetic Act",
-    "explanation": "The Drugs and Cosmetics Act comprehensively dictates all legal mandates surrounding the manufacture, sale, distribution, and procurement of pharmaceutical products in India."
+    "correct_answer": "Trial balance",
+    "explanation": "A trial balance is a bookkeeping worksheet in which the balances of all ledgers are compiled into debit and credit columns to verify their mathematical accuracy."
   },
   {
     "id": "kpsc_q68",
-    "question": "The following statement is not correct about open tender :",
+    "question": "In sugar coating subcoating is done",
     "options": [
-      "Quotations are invited from the manufacturers or their representatives",
-      "Quotations are based on the terms and conditions specified in the tender invitation",
-      "Open tenders used only in those cases where the value of the tender is moderate",
-      "Open tenders are used for procurement of large quantity of items"
+      "To round the edges and build up the tablet surface",
+      "To cover and fill the imperfections in the tablet surface",
+      "To prevent moisture penetration",
+      "To obtain the desired luster"
     ],
-    "correct_answer": "Open tenders used only in those cases where the value of the tender is moderate",
-    "explanation": "Open tenders are explicitly reserved for large-scale, high-value procurement operations to foster maximum transparency and competitive bidding, rather than moderate values."
+    "correct_answer": "To round the edges and build up the tablet surface",
+    "explanation": "The subcoating step in sugar coating is specifically performed to seal, round out sharp edges, and build up the mass of the tablet core before coloring."
   },
   {
     "id": "kpsc_q69",
-    "question": "In ABC Analysis A item covers :",
+    "question": "Uroselective vasodilator",
     "options": [
-      "10% of total inventory",
-      "20% of total inventory",
-      "80% of total inventory",
-      "50% of total inventory"
+      "Tamsulosin",
+      "Ergometrine",
+      "Phenoxy benzamine",
+      "Ritodrine"
     ],
-    "correct_answer": "10% of total inventory",
-    "explanation": "Under the Pareto principle in ABC analysis, 'A' class items represent a small fraction of total quantities (roughly 10%) but account for the highest value share (roughly 70-80%)."
+    "correct_answer": "Tamsulosin",
+    "explanation": "Tamsulosin is a selective alpha-1A adrenergic receptor antagonist that targets smooth muscle in the prostate and bladder neck, making it clinically uroselective for benign prostatic hyperplasia (BPH)."
   },
   {
     "id": "kpsc_q70",
-    "question": "Perpetual inventory system means :",
+    "question": "A red crystalline powder formulated as capsules used in treatment Tuberculosis is",
     "options": [
-      "Inventories are managed by cost",
-      "A system of recording the store balance after every receipt and issue",
-      "Vital few trivial many",
-      "Inventories are managed by numbers"
+      "Rifampicin",
+      "Cyloserine",
+      "Streptomycin",
+      "None of the above"
     ],
-    "correct_answer": "A system of recording the store balance after every receipt and issue",
-    "explanation": "A perpetual inventory system maintains continuous updating of stock balances immediately following every incoming receipt or outgoing transaction."
+    "correct_answer": "Rifampicin",
+    "explanation": "Rifampicin is a reddish-brown crystalline powder administered in capsules as a key first-line bactericidal drug in tuberculosis therapy regimens."
   },
   {
     "id": "kpsc_q71",
-    "question": "Schedule FF is related with :",
+    "question": "COMT inhibitor used in Parkinsonism",
     "options": [
-      "Paste formulation",
-      "Skin and cosmetic preparation",
-      "Ophthalmic preparation",
-      "Oral Liquid formulation"
+      "Carbidopa",
+      "Amantadine",
+      "Tolcapone",
+      "Selegiline"
     ],
-    "correct_answer": "Ophthalmic preparation",
-    "explanation": "Schedule FF under the Drugs and Cosmetics Rules establishes the distinct manufacturing and quality standards required for ophthalmic solutions and ointments."
+    "correct_answer": "Tolcapone",
+    "explanation": "Tolcapone is a selective and reversible catechol-O-methyltransferase (COMT) inhibitor that prolongs the action of levodopa in Parkinson's disease treatment."
   },
   {
     "id": "kpsc_q72",
-    "question": "The objective of Pharmacy Act 1948 except :",
+    "question": "Chloroquine and amodiaquine are derivatives of",
     "options": [
-      "Regulating and raising the status of profession of pharmacy in India",
-      "Regulating the stock and sale of drugs in pharmacies",
-      "Providing uniform education and training to pharmacy professionals",
-      "Maintaining control over the persons entering the profession"
+      "8-amino quinolines",
+      "4-amino quinolines",
+      "9-amino quinolines",
+      "Amino acridine"
     ],
-    "correct_answer": "Regulating the stock and sale of drugs in pharmacies",
-    "explanation": "Regulating the stock, commerce, and sale mechanics of drugs falls under the jurisdiction of the Drugs and Cosmetics Act, whereas the Pharmacy Act focuses purely on education and profession regulation."
+    "correct_answer": "4-amino quinolines",
+    "explanation": "Both chloroquine and amodiaquine are classified as 4-aminoquinoline antimalarial agents because their structures feature a substitution at the 4-position of the quinoline ring."
   },
   {
     "id": "kpsc_q73",
-    "question": "As per schedule P sodium valproate tab should be stored in/at :",
+    "question": "Example for a stimulant laxative",
     "options": [
-      "A cold place",
-      "Temperature not exceeding 5 degrees",
-      "A cool dry place away from heat and direct light",
-      "A temperature below 25 degrees"
+      "Sodium potassium tartrate",
+      "Liquid paraffin",
+      "Milk of magnesia",
+      "Phenolphthalein"
     ],
-    "correct_answer": "A cool dry place away from heat and direct light",
-    "explanation": "Schedule P dictates that Sodium Valproate tablets must be preserved inside tightly closed, moisture-resistant containers in a cool, dry place away from light."
+    "correct_answer": "Phenolphthalein",
+    "explanation": "Phenolphthalein is an organic stimulant laxative that works by directly irritating the sensory nerve endings in the intestinal mucosa to increase peristalsis."
   },
   {
     "id": "kpsc_q74",
-    "question": "Amoxycillin clavulanic acid tab comes under :",
+    "question": "Calcium gluconate is assayed by which titration method ?",
     "options": [
-      "Schedule P",
-      "Schedule H",
-      "Schedule X",
-      "Schedule F"
+      "Neutralisation",
+      "Complexometry",
+      "Precipitation",
+      "Redox"
     ],
-    "correct_answer": "Schedule H",
-    "explanation": "Amoxicillin-clavulanic acid combinations are prescription-only antibiotics regulated under the Schedule H framework."
+    "correct_answer": "Complexometry",
+    "explanation": "Calcium gluconate is quantified using complexometric titration with disodium edetate (EDTA) using an indicator like mordant black 11 or hydroxynaphthol blue."
   },
   {
     "id": "kpsc_q75",
-    "question": "The Drug and Magic Remedies Act is enacted in the year :",
+    "question": "An antibiotic used in cancer chemotherapy",
     "options": [
-      "1948",
-      "1919",
-      "1940",
-      "1954"
+      "Daunorubicin",
+      "Tobramycin",
+      "Novobiocin",
+      "Amikacin"
     ],
-    "correct_answer": "1954",
-    "explanation": "The Drugs and Magic Remedies (Objectionable Advertisements) Act was enacted by the Indian Parliament in 1954 to curb false medicinal advertisements."
+    "correct_answer": "Daunorubicin",
+    "explanation": "Daunorubicin is an anthracycline cytotoxic antibiotic isolated from Streptomyces species that acts as a chemotherapeutic agent by intercalating DNA."
   },
   {
-     "id": "kpsc_q76",
-    "question": "As per Narcotic drugs and psychotropic substance Act rules a person cultivates or sell, transport of Cannabis on first conviction is :",
+    "id": "kpsc_q76",
+    "question": "Which of the following is NOT a use of Ammonium chloride ?",
     "options": [
-      "Rigorous imprisonment up to 10 years or fine up to Rs. 10 lakhs",
-      "Rigorous imprisonment up to 10 years or fine up to Rs. 1 lakhs",
-      "Rigorous imprisonment up to 1 years or fine up to Rs. 10 lakhs",
-      "Rigorous imprisonment up to 1 years or fine up to Rs. 5 lakhs"
+      "Anti histaminic",
+      "Diuretic",
+      "Expectorant",
+      "Systemic acidifying agent"
     ],
-    "correct_answer": "Rigorous imprisonment up to 10 years or fine up to Rs. 1 lakhs",
-    "explanation": "Under standard NDPS provisions for small/commercial traffic baseline offenses involving certain cultivations or quantities, the minimum rigorous term scales up to 10 years with fines up to 1 lakh."
+    "correct_answer": "Anti histaminic",
+    "explanation": "Ammonium chloride is used as an expectorant, systemic acidifying agent, and weak osmotic diuretic, but it holds absolutely no antihistaminic therapeutic activity."
   },
   {
     "id": "kpsc_q77",
-    "question": "Schedule –————— of Drugs and Cosmetic Act contains a list of diseases and ailments which a drug may not claim to prevent or cure.",
+    "question": "Tablets placed under the tongue are called",
     "options": [
-      "C & C1",
-      "F",
-      "J",
-      "H"
+      "Buccal tablets",
+      "Troches",
+      "Sublingual tablets",
+      "Lozenges"
     ],
-    "correct_answer": "J",
-    "explanation": "Schedule J presents a master list of non-curable diseases (e.g., blindness, AIDS) that no drug formulation can legally advertise to cure or prevent."
+    "correct_answer": "Sublingual tablets",
+    "explanation": "Sublingual tablets are placed directly under the tongue where they dissolve rapidly, allowing systemic drug absorption through the sublingual mucosa while avoiding first-pass hepatic metabolism."
   },
   {
     "id": "kpsc_q78",
-    "question": "The Drugs and Cosmetic Act was passed with main objective to :",
+    "question": "In the limit test for Arsenic, the gas which imparts brown stain to mercuric chloride paper is",
     "options": [
-      "To register a pharmacist",
-      "Regulate import, manufacture distribution sale of drugs and cosmetics",
-      "Raise the status of the profession of pharmacy",
-      "Providing uniform education to pharmacists"
+      "Arsenic oxide",
+      "Arsenic acid",
+      "Arsenious acid",
+      "Arsine"
     ],
-    "correct_answer": "Regulate import, manufacture distribution sale of drugs and cosmetics",
-    "explanation": "The primary objective behind the establishment of the Drugs and Cosmetics Act 1940 was to ensure safety and quality by monitoring import, production, and marketplace distribution."
+    "correct_answer": "Arsine",
+    "explanation": "In the Gutzeit limit test for arsenic, arsenic impurities are reduced to arsine gas (AsH3), which reacts with mercuric chloride paper to produce a yellow to brown stain."
   },
   {
     "id": "kpsc_q79",
-    "question": "In State Pharmacy Council how many members are elected from amongst themselves by registered pharmacists of the state?",
+    "question": "Nitrous oxide is stored in cylinders painted by",
     "options": [
-      "Four",
-      "Five",
-      "Six",
-      "Seven"
+      "Green colour",
+      "Grey colour",
+      "Blue colour",
+      "None of the above"
     ],
-    "correct_answer": "Six",
-    "explanation": "The Pharmacy Act of 1948 mandates that State Pharmacy Councils must have six members elected from among themselves by the registered pharmacists of that specific state."
+    "correct_answer": "Blue colour",
+    "explanation": "Standard medical gas cylinder coding mandates that nitrous oxide cylinders be color-coded and painted blue."
   },
   {
     "id": "kpsc_q80",
-    "question": "For licence granted to sell by wholesale drugs, specified C and C(1) drugs form no is :",
+    "question": "The drug of choice for filariasis",
     "options": [
-      "20",
-      "21",
-      "20B",
-      "21B"
+      "Diethyl carbamazine",
+      "Mebendazole",
+      "Levamisole",
+      "Piperazine"
     ],
-    "correct_answer": "21B",
-    "explanation": "Form 21B is the official license format granted for the wholesale distribution of biological and special products listed under Schedules C and C1."
+    "correct_answer": "Diethyl carbamazine",
+    "explanation": "Diethylcarbamazine (DEC) is the primary synthetic anthelmintic agent of choice for treating lymphatic filariasis caused by Wuchereria bancrofti and Brugia malayi."
   },
   {
     "id": "kpsc_q81",
-    "question": "The safest and the most efficient means of delivering drugs from the pharmacy to the patients :",
+    "question": "Isoniazid, nicotinamide and nikethamide have the following hetrocyclic ring in common",
     "options": [
-      "Unit dose drug distribution system",
-      "Complete floor stock system",
-      "Online pharmacy",
-      "Combination of (B) and (C)"
+      "Pyrazine",
+      "Oxazole",
+      "Pyridine",
+      "Pyrazole"
     ],
-    "correct_answer": "Unit dose drug distribution system",
-    "explanation": "The unit-dose system minimizes dispensing errors, provides single individually packaged doses, and optimizes economic and safety accountability within institutional pharmacy practice."
+    "correct_answer": "Pyridine",
+    "explanation": "Isoniazid, nicotinamide, and nikethamide are all structurally based on the pyridine heterocyclic ring (a six-membered aromatic ring containing one nitrogen atom)."
   },
   {
     "id": "kpsc_q82",
-    "question": "Model essential medicine list was prepared by :",
+    "question": "Peripheral neuritis is associated with which among the following drug ?",
     "options": [
-      "Hospital Management",
-      "Government",
-      "WHO",
-      "DMO"
+      "Phenobarbitone",
+      "Carbamazepine",
+      "Ethosuccimide",
+      "Sodium valproate"
     ],
-    "correct_answer": "WHO",
-    "explanation": "The Model List of Essential Medicines is periodically reviewed and updated by the World Health Organization (WHO) to serve as a guide for global healthcare systems."
+    "correct_answer": "Carbamazepine",
+    "explanation": "Among these anticonvulsants, Carbamazepine has been clinically associated with occurrences of peripheral neuritis/neuropathy."
   },
   {
     "id": "kpsc_q83",
-    "question": "One of the disadvantage of floor stock system :",
+    "question": "Drug of choice for morphine poisoning",
     "options": [
-      "No return of drugs to the pharmacy",
-      "Reduction in drug order transcriptions",
-      "Reduction in pharmacy personnel",
-      "Inadequate supervision of drug stocked"
+      "Nalorphine",
+      "Naloxone",
+      "Naltrexone",
+      "Pethidine"
     ],
-    "correct_answer": "Inadequate supervision of drug stocked",
-    "explanation": "Because medicines are stored directly on nursing wards in floor stock systems, there is an increased risk of omitted oversight, medication wastage, or inappropriate inventory control."
+    "correct_answer": "Naloxone",
+    "explanation": "Naloxone is a pure, fast-acting opioid receptor antagonist that reverses the respiratory depression and sedation associated with morphine toxicity."
   },
   {
     "id": "kpsc_q84",
-    "question": "For the calculation of the parameter economic order quantity, we are not using :",
+    "question": "Example for tricyclic antidepressants",
     "options": [
-      "Consumption over a period of time",
-      "Cost for pain and sufferings",
-      "Setup costs",
-      "Direct production cost per unit"
+      "Haloperiodol",
+      "Oxypertine",
+      "Fluphenazine",
+      "Amitriptyline"
     ],
-    "correct_answer": "Cost for pain and sufferings",
-    "explanation": "Economic Order Quantity ($\text{EOQ}$) calculations depend strictly on tangible metrics (demand rates, ordering/setup costs, and carrying costs) and cannot incorporate subjective concepts like 'pain and suffering'."
+    "correct_answer": "Amitriptyline",
+    "explanation": "Amitriptyline is a classic example of a tricyclic antidepressant (TCA) that acts by inhibiting the reuptake of norepinephrine and serotonin."
   },
   {
     "id": "kpsc_q85",
-    "question": "Water for injection is prepared by :",
+    "question": "Solution prepared by dissolving 5% iodine in water is",
     "options": [
-      "Distillation",
-      "Demineralization",
-      "Sedimentation",
-      "Decantation"
+      "Aqueous iodine solution",
+      "Weak iodine solution",
+      "Iodine tincture",
+      "Povidone iodine"
     ],
-    "correct_answer": "Distillation",
-    "explanation": "Distillation is the official and most reliable method to remove pyrogens, volatile chemicals, and microorganisms to produce Water for Injection (WFI)."
+    "correct_answer": "Aqueous iodine solution",
+    "explanation": "Aqueous Iodine Solution (also known historically as Lugol's solution) is prepared using 5% w/v iodine dissolved in water using potassium iodide to enhance solubility."
   },
   {
     "id": "kpsc_q86",
-    "question": "In sterile manufacturing, the solute benzalkonium chloride is used in the concentration of –————— percentage.",
+    "question": "Secondary hyper uricaemia due to cancer chemotherapy is controlled by",
     "options": [
-      "0.5%",
-      "0.001%",
-      "0.01%",
-      "0.45%"
+      "Probenecid",
+      "Allopurinol",
+      "Colchicine",
+      "Sulfinpyrazine"
     ],
-    "correct_answer": "0.01%",
-    "explanation": "Benzalkonium chloride is commonly employed as an antimicrobial preservative in ophthalmic or sterile formulations at a standard concentration of 0.01% w/v."
+    "correct_answer": "Allopurinol",
+    "explanation": "Allopurinol blocks xanthine oxidase to prevent uric acid formation, serving as a primary prophylaxis drug against tumor lysis syndrome-induced hyperuricemia."
   },
   {
     "id": "kpsc_q87",
-    "question": "Type I borosilicate glass container for parenteral preparation is composed of :",
+    "question": "Mechanism of action of phenytoin",
     "options": [
-      "Sodium oxide and boric oxide",
-      "Calcium oxide and boric oxide",
-      "Silicon dioxide and calcium oxide",
-      "Silicon dioxide and boric oxide"
+      "Inhibition of T type calcium channels",
+      "Facilitation of GABA mediated chloride channel opening",
+      "Facilitation of GABA mediated sodium channel opening",
+      "Prolongation of soidum channel inactivation"
     ],
-    "correct_answer": "Silicon dioxide and boric oxide",
-    "explanation": "Type I glass is highly resistant borosilicate glass primarily comprised of silicon dioxide ($\text{SiO}_2$) and boric oxide ($\text{B}_2\text{O}_3$), providing high chemical resistance."
+    "correct_answer": "Prolongation of soidum channel inactivation",
+    "explanation": "Phenytoin prevents seizure propagation primarily by binding to and stabilizing the inactivated state of voltage-gated sodium channels, prolonging their recovery period."
   },
   {
     "id": "kpsc_q88",
-    "question": "Indexing and abstracting sources are induced in which type of literature in Drug Information :",
+    "question": "Culture media used in test for sterility",
     "options": [
-      "Primary",
-      "Secondary",
-      "Tertiary",
-      "Quaternary"
+      "Fluid thioglycollate medium",
+      "Soya-bean casein digest medium",
+      "Alterative thioglycollate medium",
+      "All of the above"
     ],
-    "correct_answer": "Secondary",
-    "explanation": "Secondary drug literature comprises abstracting and indexing services (e.g., PubMed, Embase) that compile and direct users toward primary source articles."
+    "correct_answer": "All of the above",
+    "explanation": "According to official pharmacopoeias, Fluid Thioglycollate, Alternative Thioglycollate, and Soyabean Casein Digest media are standard media recommended for testing the sterility of drugs."
   },
   {
     "id": "kpsc_q89",
-    "question": "Bandage cloth consists of cotton cloth of plain weave made from machine spun yarn of suitable count to comply with a bleached count between –————— for a warp.",
+    "question": "Which among the following exist as a liquid ?",
     "options": [
-      "20 tex and 25 tex",
-      "25 tex and 30 tex",
-      "35 tex and 40 tex",
-      "41 tex and 45 tex"
+      "Chloral hydrate",
+      "Methyl prylon",
+      "Paraldehyde",
+      "Glutethimide"
     ],
-    "correct_answer": "25 tex and 30 tex",
-    "explanation": "Official pharmacopoeial specifications require that the cotton bleached count for surgical bandage cloth warp yarn falls between 25 tex and 30 tex."
+    "correct_answer": "Paraldehyde",
+    "explanation": "Paraldehyde is a polymer of acetaldehyde that exists as a clear, colorless liquid at room temperature with a strong pungent odor."
   },
   {
     "id": "kpsc_q90",
-    "question": "The member secretary in PTC :",
+    "question": "Which among the following is penicillinase resistant penicillin ?",
     "options": [
-      "RMO",
-      "Registered medical practitioner",
-      "Head Nurse",
-      "Hospital Pharmacists"
+      "Benzyl penicillin",
+      "Carbenicillin sodium",
+      "Ampicillin",
+      "Dicloxacillin"
     ],
-    "correct_answer": "Hospital Pharmacists",
-    "explanation": "In a Pharmacy and Therapeutics Committee (PTC), a leading physician typically serves as Chairman, while the Chief Hospital Pharmacist is designated as the Member-Secretary."
+    "correct_answer": "Dicloxacillin",
+    "explanation": "Dicloxacillin is an isoxazolyl penicillin designed with steric hindrance to prevent degradation by bacterial penicillinase (beta-lactamase) enzymes."
   },
   {
     "id": "kpsc_q91",
-    "question": "The category of drugs which induces peptic ulcer?",
+    "question": "Example for a non-ionic emulsifying agent",
     "options": [
-      "Sulphonyl ureas",
-      "NSAID’s",
-      "Biguanides",
-      "Statins"
+      "Sodium lauryl sulphate",
+      "Polyoxyethylene sorbitan mono oleate",
+      "Cetyl trimethyl ammonium bromide",
+      "Dodecyl pyridinium chloride"
     ],
-    "correct_answer": "NSAID’s",
-    "explanation": "Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) inhibit cyclooxygenase-1 ($\text{COX-1}$), reducing cytoprotective prostaglandins and predisposing the stomach to mucosal injury and peptic ulceration."
+    "correct_answer": "Polyoxyethylene sorbitan mono oleate",
+    "explanation": "Polyoxyethylene sorbitan monooleate (Polysorbate 80 or Tween 80) is a well-known non-ionic surfactant used to stabilize emulsions."
   },
   {
     "id": "kpsc_q92",
-    "question": "The test which is used to detect antibody on cell surface :",
+    "question": "Diazepam is",
     "options": [
-      "APTT",
-      "Creatinine",
-      "Coomb’s test",
-      "Alkaline phosphatase test"
+      "7-chloro-1,3 dihydro-1-methyl-5-phenyl 1,4 benzodiazepin-2one",
+      "7-methyl-1,3 dihydro-1-methyl-5-phenyl 1,4 benzodiazepin-2one",
+      "7-chloro-1,3 dihydro-1,5-dimethyl 1,4 benzodiazepin-2one",
+      "7-nitro-1,3 dihydro-1-methyl-5-phenyl 1,4 benzodiazepin-2one"
     ],
-    "correct_answer": "Coomb’s test",
-    "explanation": "The direct Coombs test (antiglobulin test) is used clinically to detect autoantibodies bound directly onto the surface of red blood cells."
+    "correct_answer": "7-chloro-1,3 dihydro-1-methyl-5-phenyl 1,4 benzodiazepin-2one",
+    "explanation": "The chemical IUPAC name for diazepam is 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one."
   },
   {
     "id": "kpsc_q93",
-    "question": "The marker used to detect acute myocardial infarction :",
+    "question": "An example for third generation cephalosporins",
     "options": [
-      "Lactic acid dehydrogenase",
-      "Alkaline phosphatase",
-      "SGOT",
-      "Creatinine phosphokinase"
+      "Ceforoxime",
+      "Cepharadine",
+      "Ceftibuten",
+      "Cefaclor"
     ],
-    "correct_answer": "Creatinine phosphokinase",
-    "explanation": "Creatinine Phosphokinase (specifically the CPK-MB isoenzyme) is a sensitive cardiac biomarker that rises quickly following myocardial muscle injury."
+    "correct_answer": "Ceftibuten",
+    "explanation": "Ceftibuten is an oral third-generation cephalosporin, whereas cefuroxime and cefaclor belong to the second generation, and cephradine to the first."
   },
   {
     "id": "kpsc_q94",
-    "question": "Interaction of MAO inhibitors with tyramine will result in :",
+    "question": "Example for a filter made of cellulose",
     "options": [
-      "Hypertensive crisis",
-      "Diabetes mellitus",
-      "UTI",
-      "Rheumatic Diseases"
+      "Sintered glass filter",
+      "Seitz filter",
+      "Meta filter",
+      "Membrane filter"
     ],
-    "correct_answer": "Hypertensive crisis",
-    "explanation": "Inhibition of MAO prevents the breakdown of dietary tyramine, allowing it to displace noradrenaline into synapses and trigger a severe hypertensive crisis ('cheese reaction')."
+    "correct_answer": "Membrane filter",
+    "explanation": "Standard analytical and sterilizing membrane filters are typically manufactured from esters of cellulose (like cellulose acetate or cellulose nitrate)."
   },
   {
     "id": "kpsc_q95",
-    "question": "Potassium salts will not interact with :",
+    "question": "Whooping cough is caused by",
     "options": [
-      "Triamterene",
-      "Amiloride",
-      "Quinidine",
-      "Ranitidine"
+      "Pasteurella pestis",
+      "Bordetella pertussis",
+      "Actinobacillus mallei",
+      "Bacillus thuringiensis"
     ],
-    "correct_answer": "Ranitidine",
-    "explanation": "Triamterene and amiloride are potassium-sparing diuretics that cause potassium retention, and quinidine can interact with serum potassium levels to modify cardiac conduction. Ranitidine, an $\text{H}_2$-blocker, does not interact with potassium salts."
+    "correct_answer": "Bordetella pertussis",
+    "explanation": "Pertussis (whooping cough) is a highly contagious respiratory tract infection caused by the Gram-negative coccobacillus bacterium Bordetella pertussis."
   },
   {
     "id": "kpsc_q96",
-    "question": "The consequence of interaction between NSAID’s and methotrexate is :",
+    "question": "Combination of nitrous oxide and halothane is an example for",
     "options": [
-      "Effect of NSAID’s will increase",
-      "Therapeutic failure",
-      "Increased toxicity of methotrexate",
-      "Decreased toxicity of methotrexate"
+      "Antagonistic effect",
+      "Potentiation effect",
+      "Additive effect",
+      "Neutral effect"
     ],
-    "correct_answer": "Increased toxicity of methotrexate",
-    "explanation": "NSAIDs reduce renal perfusion and compete for tubular secretion pathways, reducing methotrexate elimination and increasing the risk of severe methotrexate toxicity."
+    "correct_answer": "Additive effect",
+    "explanation": "When general anesthetics like nitrous oxide and halothane are combined, their minimum alveolar concentration (MAC) values show an additive pharmacological effect in producing anesthesia."
   },
   {
     "id": "kpsc_q97",
-    "question": "The teratogenicity of indomethacin will result in :",
+    "question": "A non-benzodiazepine which acts as a good anti anxiety agent",
     "options": [
-      "Multiple defects",
-      "Premature closure of ductus arteriosus",
-      "Foetal goitre",
-      "Virilization of female foetus"
+      "Haloperoidol",
+      "Meprobamate",
+      "Trifluoperazine",
+      "None of the above"
     ],
-    "correct_answer": "Premature closure of ductus arteriosus",
-    "explanation": "Indomethacin crosses the placenta and inhibits prostaglandin production, which can cause premature closure of the fetal ductus arteriosus in utero."
+    "correct_answer": "Meprobamate",
+    "explanation": "Meprobamate is a carbamate derivative that was historically used as an anxiolytic (minor tranquilizer) and is classified as a non-benzodiazepine antianxiety drug."
   },
   {
     "id": "kpsc_q98",
-    "question": "Antidot of Acetaminophen :",
+    "question": "The first edition of Indian Pharmacopoeia was published in",
     "options": [
-      "Acetyl cysteine",
-      "Atropine",
-      "Pralidoxime",
-      "Deferoxamine"
+      "1955",
+      "1966",
+      "1947",
+      "1945"
     ],
-    "correct_answer": "Acetyl cysteine",
-    "explanation": "N-acetylcysteine (NAC) acts as a specific antidote for paracetamol (acetaminophen) toxicity by restoring liver glutathione stores to safely detoxify the reactive metabolite NAPQI."
+    "correct_answer": "1955",
+    "explanation": "The Government of India published the first official edition of the Indian Pharmacopoeia (I.P.) in the year 1955 under the chairmanship of Dr. B. Mukerji."
   },
   {
     "id": "kpsc_q99",
-    "question": "Arsenic poisoning can be treated by :",
+    "question": "How much quantity of 80% alcohol is required to make one litre of 50% alcohol ?",
     "options": [
-      "EDTA",
-      "Alcohol",
-      "Mannitol",
-      "Dimercaprol"
+      "750 ml",
+      "625 ml",
+      "375 ml",
+      "500 ml"
     ],
-    "correct_answer": "Dimercaprol",
-    "explanation": "Dimercaprol (British Anti-Lewisite or BAL) acts as a chelating agent with sulfhydryl groups that bind heavy metals like arsenic to facilitate their excretion."
+    "correct_answer": "625 ml",
+    "explanation": "Using the allegation / dilution formula: C1 * V1 = C2 * V2 -> 80% * V1 = 50% * 1000 mL -> V1 = (50 * 1000) / 80 = 625 mL."
   },
   {
     "id": "kpsc_q100",
-    "question": "If a structurally different drug provides the same therapeutic or clinical response as another drug, the two are considered as being :",
+    "question": "Zoonotic diseases are",
     "options": [
-      "Nonequivalent",
-      "Therapeutic equivalent",
-      "Clinical equivalent",
-      "Chemical equivalent"
+      "Disease transmitted by rodents",
+      "Disease transmitted by arthropods",
+      "Disease transmitted from man to animals",
+      "Disease transmitted from animals to man"
     ],
-    "correct_answer": "Therapeutic equivalent",
-    "explanation": "Therapeutic equivalence applies to distinct chemical entities that produce identical clinical safety and efficacy outcomes when administered for a given health condition."
+    "correct_answer": "Disease transmitted from animals to man",
+    "explanation": "A zoonosis or zoonotic disease is an infectious disease that has jumped from a non-human animal host to humans."
   }
 ]
